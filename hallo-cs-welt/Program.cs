@@ -10,6 +10,11 @@ namespace hallo_cs_welt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hallo, du schnöde, öde Computer- und GitHub-Welt!");
+
+            Console.WriteLine();
+            Console.WriteLine("Bitte <Return> drücken");
+            Console.ReadLine();
         }
     }
 }
